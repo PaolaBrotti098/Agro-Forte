@@ -88,10 +88,10 @@ casa.jpg  Retirado do site wikimedia Commons ()
 campo.jpg
 
 👨‍🎓 Autoria
-Autor(a): Nome do(a) estudante
-Professor(a) orientador(a): Nome do(a) professor(a)
-Escola: Nome da instituição de ensino
-Município: Guarapuava – Paraná
+Autora: Paola Brotti
+Professora: Alexandra Terezinha Kapusinski
+Escola: CCM Edite Cordeiro Marques
+Município: Turvo – Paraná
 
 🖼️ Créditos dos Recursos Utilizados
 As imagens, vídeos, ícones, textos e demais recursos visuais utilizados neste projeto foram produzidos ou organizados para fins educacionais no contexto do Concurso Agrinho 2026.
